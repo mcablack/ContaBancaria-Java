@@ -1,0 +1,6 @@
+Ações:
+-Cadastrar cliente e recolher seus dados.
+-Validação na gravação dos dados, se estão corretos.
+-Abrir uma conta, com valor pré definido.
+-Fazer deposito 
+-Fazer saque
